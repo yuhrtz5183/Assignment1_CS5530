@@ -1,0 +1,20 @@
+## V1 — Gender boxplots (math vs reading)
+
+It looks like male students have a little higher median in the Math score, but females have a higher score when it comes to reading. However, the spread seems to be quite wide for both genders, so the difference is relatively small in comparison to each student. At the same time, there are more lower outliers on the female side in comparison to the male side on both math and reading. The bottom whisker for male reading is a bit lower than for male math, and males have more lower outliers in reading (3) than in math (2). Overall though, it seems that reading is a lower score in general than math as it shows students score less in reading compared to math.
+
+## V2 — Test prep impact on math
+
+Students that completed any test prep have a higher score then those students who didn't take any test prep. It can be seen with the box and whisker plot, where the median line is slightly higher on the "Yes", completed side, in comparison to the "No", none side. The completed group averaged around 69 in math compated to the no test prep group's 64, so the gap is not huge, but still noticeable. While the boxes for each overlap one another a good amount, the no test group has noticeable outliers towards the bottom part, so test prep is not the only thing separating a high scorer vs a low one. It could be that students how are more motivated to do well will take a test prep course, thus having a closer total average in comparison to the students who did not take any courses.
+
+## V3 — Lunch type and average performance
+
+Students that are the standard/normal lunch plan have a higher average on all 3 subjects than those on the free/reduced lunch plan. Those on the standard lunch plan seem to have about the same average on all three averages, but on the free/reduced lunch, the average math score is a lot lower then the other subjects on free/reduced lunch. THe standard lunch group has an average around 70 in math, 72 in reading, and 71 in writing, while the free/reduced averages around 58, 63, and 65. It is interesting that the gap is not even across all subjects through, since you'd expect the subjects to decrease by the same amount on free/reduced lunch, but this is not the case. Looking at the psychological stand point, it can be said that math requires more brain power for some, and that can be fueled by a good, properly lunch. That side, this is purely observational data and not an experiment, so the lunch type is more likely a proxy for a broader economic status than a direcr cause of lower subject scores.
+
+## V4 — Subject correlations
+
+Reading and writing has the most correlation with each other (r = .95), which makes sense since they both language based skills. Math has less of a correlation the two (r = .82 with reading and .80 with writing), which also makes sense since it requires a completely different skillset then reading and writing. That said, the correlation between all three are positive and still strong, so if studnts do well in one subject, they are likely to do well in the others. None of the 3 subject correlations are exactly 1, so students can be stronger in one subject then another. Though, given that the scores are not totally independent, patterns will likely show from one subject to another.
+
+## V5 — Math vs reading with trend lines by test prep
+
+The math and reading scores are clearly connected to each other where students who do well in one subject will likely do well in the other. Both lines of best fit are pretty much the same, where towards the beginning of the line, are overlapping one another and only towards the end, do they slightly seperate. The completed test prep group has scores much higher in math on average, but that's comparing the groups overall average, not those with the same reading score. Since the lines are so close and even cross one another, test prep does not really seem to give math a boost the way it shows from the averages. It is more like completed test prep students will also read better, and since reading and math move together, that pulls their math score up too.
+
